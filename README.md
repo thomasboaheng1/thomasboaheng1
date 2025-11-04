@@ -60,7 +60,6 @@ I’m passionate about leveraging data to uncover insights, build efficient back
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" alt="VS Code"/>
       <img src="assets/icons/netbeans.png" width="45" alt="NetBeans"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" alt="FastAPI"/>
-      <img src="assets/icons/cursor.jpg" width="45" alt="Cursor"/>
     </td>
   </tr>
 </table>
